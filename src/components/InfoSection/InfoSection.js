@@ -21,7 +21,7 @@ const InfoSection = () => {
           <InfoRow>
             <Column1>
               <ImgWrap>
-                <img src={me2} width='385' height='585' />
+                <img src={me2} alt=" " width='385' height='585' />
               </ImgWrap>
             </Column1>
             <Column2>
