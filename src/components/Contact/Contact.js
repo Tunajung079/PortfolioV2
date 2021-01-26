@@ -9,7 +9,7 @@ const Contact = () => {
       <ContactH1>Contact Me</ContactH1>
       <ContactWrapper>
       <ContactCard>
-       <ContactH2>Email : s6035512079@phuket.psu.ac.th</ContactH2>
+       <ContactH2>Email : nichakan.tanang999@gmail.com</ContactH2>
       </ContactCard>
       <ContactCard>
        <ContactH2>Tel : 0996127429</ContactH2>
