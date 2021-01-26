@@ -27,9 +27,9 @@ const Footer = () => {
             <SocialMedia>
               <SocialMediaWrap>
                 <SocialLogo to='/'>
-                  Portfolio
+                  NCK
                 </SocialLogo>
-                <WebsiteRights>Portfolio © {new Date().getFullYear()}</WebsiteRights>
+                <WebsiteRights>NCK © {new Date().getFullYear()}</WebsiteRights>
                 <SocialIcons>
                   <SocialIconLink href="//www.facebook.com/Na.Nichakan" target="_blank" aria-label="Facebook"><FaFacebook/></SocialIconLink>
                   <SocialIconLink href="//www.instagram.com/tuxxna" target="_blank" aria-label="Instagram"><FaInstagram/></SocialIconLink>
