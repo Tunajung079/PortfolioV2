@@ -11,7 +11,7 @@ import {
   Subtitle,
   ImgWrap
 } from './InfoSectionElements'
-import me2 from '../About/me2.png'
+import me2 from './me2.png'
 
 const InfoSection = () => {
   return (

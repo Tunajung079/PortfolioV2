@@ -2,7 +2,6 @@ import React, {useState} from 'react';
 import '../App.css';
 import Navbar from './Navbar'
 import InfoSection from './InfoSection/InfoSection';
-import About from './About/About';
 import Education from './Education/Education';
 import Skill from './Skill/Skill';
 import Contact from './Contact/Contact';
