@@ -37,7 +37,7 @@ const Education = () => {
         <EducationIcon3 src={a025} />
           <EducationIcon2 src={a1339} />
           <EducationIcon3 src={a025} />
-          <EducationH2>National Software Contest 23</EducationH2>
+          <EducationH2>National Software Contest</EducationH2>
           <EducationP>Project pass the qualify</EducationP>
           <EducationP>2021</EducationP>
         </EducationCard>
