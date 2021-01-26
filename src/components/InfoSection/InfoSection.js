@@ -28,7 +28,7 @@ const InfoSection = () => {
               <TextWrapper>
                 <TopLine>HI , I AM</TopLine>
                 <Heading>NICHAKAN JAISAKSERN</Heading>
-                <Subtitle>Computer Emgineering</Subtitle>
+                <Subtitle>Computer Engineering</Subtitle>
                 <Subtitle>
                   When I was young, I bought my first computer when I was 10
                   years old, and it was a starting point for me to become
