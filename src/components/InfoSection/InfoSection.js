@@ -21,7 +21,7 @@ const InfoSection = () => {
           <InfoRow>
             <Column1>
               <ImgWrap>
-                <img src={me2} alt=" " width='385' height='585' />
+                <img src={me2} alt=' ' width='385' height='585' />
               </ImgWrap>
             </Column1>
             <Column2>
@@ -30,11 +30,10 @@ const InfoSection = () => {
                 <Heading>NICHAKAN JAISAKSERN</Heading>
                 <Subtitle>Computer Engineering</Subtitle>
                 <Subtitle>
-                  When I was young, I bought my first computer when I was 10
-                  years old, and it was a starting point for me to become
-                  fascinated by the technology that's evolving, so I always
-                  loved to learn technology. and I love creative, design,
-                  problem analysis.
+                  I am a Computer Engineering with holistic knowledge of
+                  developing and design Website. I am also experienced in a
+                  project about programming.I always loved to learn technology.
+                  and I love creative, design, problem analysis.
                 </Subtitle>
               </TextWrapper>
             </Column2>
