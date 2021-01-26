@@ -26,7 +26,7 @@ const InfoSection = () => {
             </Column1>
             <Column2>
               <TextWrapper>
-                <TopLine>HI ,I AM **</TopLine>
+                <TopLine>HI ,I AM</TopLine>
                 <Heading>NICHAKAN JAISAKSERN</Heading>
                 <Subtitle>Computer Engineering</Subtitle>
                 <Subtitle>
