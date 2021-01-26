@@ -11,7 +11,7 @@ import {
   Subtitle,
   ImgWrap
 } from './InfoSectionElements'
-import me2 from './me2.png'
+import a12 from './a12.png'
 
 const InfoSection = () => {
   return (
@@ -21,7 +21,7 @@ const InfoSection = () => {
           <InfoRow>
             <Column1>
               <ImgWrap>
-                <img src={me2} alt=' ' width='385' height='585' />
+                <img src={a12} alt=' ' width='385' height='385' />
               </ImgWrap>
             </Column1>
             <Column2>
