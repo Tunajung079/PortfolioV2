@@ -29,7 +29,7 @@ const Education = () => {
         </EducationCard>
         <EducationCard>
           <EducationIcon src={Game} />
-          <EducationH2>Showcase 2020</EducationH2>
+          <EducationH2>Senior Project Showcase</EducationH2>
           <EducationP>Prince of Songkla University Phuket Campus</EducationP>
           <EducationP>2020</EducationP>
         </EducationCard>
